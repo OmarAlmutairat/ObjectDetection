@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "800513459595",
+    "firebase_url": "https://tadicha-2f7bd.firebaseio.com",
+    "project_id": "tadicha-2f7bd",
+    "storage_bucket": "tadicha-2f7bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800513459595:android:980d02503649af48db9b8e",
+        "android_client_info": {
+          "package_name": "com.object.detection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDputFHYdjvRE4rxErcIPMBp6TzE0Y8m-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800513459595:android:f591d8f6521cc09fdb9b8e",
+        "android_client_info": {
+          "package_name": "com.phizapp.chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDputFHYdjvRE4rxErcIPMBp6TzE0Y8m-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800513459595:android:57d3dbedb141db55db9b8e",
+        "android_client_info": {
+          "package_name": "com.rinastudio.plantayo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDputFHYdjvRE4rxErcIPMBp6TzE0Y8m-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800513459595:android:8daa245f4f94ff1adb9b8e",
+        "android_client_info": {
+          "package_name": "com.shukri.chunkingz.eat_it2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDputFHYdjvRE4rxErcIPMBp6TzE0Y8m-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
